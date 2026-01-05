@@ -7,11 +7,10 @@
 
 #include <stdio.h>
 
-int main() {
+void main() {
 
     printf("Hello, FPT Polytechnic!\n");
-    printf("Chào mừng Bạn đến với Nhập môn lập trình - COM108!\n");
 
-    return 0;
+    printf("Chào mừng Bạn đến với Nhập môn lập trình - COM108!\n");
 
 }
